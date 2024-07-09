@@ -1,0 +1,3 @@
+2024-07-02 18:49:04.911 [info] Started initializing default profile extensions in extensions installation folder. file:///home/autummata/.vscode/extensions
+2024-07-02 18:49:05.142 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/autummata/.vscode/extensions Unable to create file 'vscode-userdata:/home/autummata/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-07-02 18:49:05.143 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/autummata/.vscode/extensions

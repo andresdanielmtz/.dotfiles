@@ -1,0 +1,25 @@
+2024-07-02 18:49:06.994 [info] Log level: Info
+2024-07-02 18:49:06.994 [info] Validating found git in: "git"
+2024-07-02 18:49:06.994 [info] Using git "2.45.2" from "git"
+2024-07-02 18:49:06.994 [info] > git rev-parse --show-toplevel [6ms]
+2024-07-02 18:49:06.994 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-07-02 18:49:06.994 [info] Open repository: /home/autummata/dev/octonotes
+2024-07-02 18:49:06.995 [info] > git config --get commit.template [7ms]
+2024-07-02 18:49:06.999 [info] > git rev-parse --show-toplevel [6ms]
+2024-07-02 18:49:07.033 [info] > git rev-parse --show-toplevel [21ms]
+2024-07-02 18:49:07.033 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [28ms]
+2024-07-02 18:49:07.044 [warning] ENOENT: no such file or directory, open '/home/autummata/dev/octonotes/.git/refs/remotes/origin/main'
+2024-07-02 18:49:07.045 [info] > git rev-parse --show-toplevel [6ms]
+2024-07-02 18:49:07.063 [info] > git rev-parse refs/remotes/origin/main [19ms]
+2024-07-02 18:49:07.085 [info] > git status -z -uall [14ms]
+2024-07-02 18:49:07.105 [info] > git merge-base refs/heads/main refs/remotes/origin/main [11ms]
+2024-07-02 18:49:07.112 [info] > git config --get commit.template [7ms]
+2024-07-02 18:49:07.117 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [7ms]
+2024-07-02 18:49:07.124 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-07-02 18:49:07.129 [warning] ENOENT: no such file or directory, open '/home/autummata/dev/octonotes/.git/refs/remotes/origin/main'
+2024-07-02 18:49:07.130 [info] > git diff --name-status -z --diff-filter=ADMR c5f55938365b6c7c7b14b9ec250da7fbb5013a6d...refs/remotes/origin/main [7ms]
+2024-07-02 18:49:07.132 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2024-07-02 18:49:07.174 [info] > git status -z -uall [37ms]
+2024-07-02 18:49:07.497 [info] > git check-ignore -v -z --stdin [5ms]
+2024-07-02 18:49:08.979 [info] > git check-ignore -v -z --stdin [3ms]
+2024-07-02 18:49:09.715 [info] > git check-ignore -v -z --stdin [3ms]

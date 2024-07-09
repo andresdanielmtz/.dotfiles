@@ -1,0 +1,41 @@
+2024-07-02 18:49:04.849 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-07-02 18:49:04.849 [info] Auto Sync is disabled.
+2024-07-02 18:55:52.084 [info] Sync started.
+2024-07-02 18:55:52.460 [info] Did reset the local sync state.
+2024-07-02 18:55:52.469 [info] Settings: Migrating last sync user data. Resource does not exist.
+2024-07-02 18:55:52.469 [info] Settings: Last sync data state does not exist.
+2024-07-02 18:55:52.547 [info] Settings: Migrating last sync user data. Resource does not exist.
+2024-07-02 18:55:52.547 [info] Settings: Last sync data state does not exist.
+2024-07-02 18:55:52.732 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-07-02 18:55:52.732 [info] GlobalState: Last sync data state does not exist.
+2024-07-02 18:55:52.800 [info] Keybindings: Migrating last sync user data. Resource does not exist.
+2024-07-02 18:55:52.801 [info] Keybindings: Last sync data state does not exist.
+2024-07-02 18:55:52.880 [info] Snippets: Migrating last sync user data. Resource does not exist.
+2024-07-02 18:55:52.880 [info] Snippets: Last sync data state does not exist.
+2024-07-02 18:55:52.955 [info] Tasks: Migrating last sync user data. Resource does not exist.
+2024-07-02 18:55:52.955 [info] Tasks: Last sync data state does not exist.
+2024-07-02 18:55:53.031 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-07-02 18:55:53.032 [info] GlobalState: Last sync data state does not exist.
+2024-07-02 18:55:53.342 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2024-07-02 18:55:53.342 [info] Extensions: Last sync data state does not exist.
+2024-07-02 18:55:53.691 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2024-07-02 18:55:53.691 [info] Profiles: Last sync data state does not exist.
+2024-07-02 18:55:53.770 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2024-07-02 18:55:53.771 [info] Profiles: Last sync data state does not exist.
+2024-07-02 18:55:53.823 [info] Settings: Updated local settings
+2024-07-02 18:55:53.882 [info] Settings: Updated last synchronized settings
+2024-07-02 18:55:53.886 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-02 18:55:53.907 [info] Keybindings: Updated last synchronized keybindings
+2024-07-02 18:55:53.908 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-02 18:55:53.940 [info] Snippets: Updated last synchronized snippets
+2024-07-02 18:55:53.941 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-02 18:55:53.966 [info] Tasks: Updated last synchronized tasks
+2024-07-02 18:55:54.028 [info] GlobalState: Updated global state ["nps/lastSessionDate","nps/sessionCount","workbench.statusbar.hidden","workbench.view.extensions.state.hidden","workbench.panel.alignment","ces/skipSurvey","cpp.1.lastSessionDate","cpp.1.sessionCount","java.2.lastSessionDate","java.2.sessionCount","javascript.1.lastSessionDate","javascript.1.sessionCount","typescript.1.lastSessionDate","typescript.1.sessionCount","fileBasedRecommendations/promptedRecommendations","workbench.welcomePage.walkthroughMetadata","memento/notebookGettingStarted2","notebook.controller2TypeBindings","commandPalette.mru.cache","commandPalette.mru.counter","terminal.integrated.showTerminalConfigPrompt","nps/isCandidate","nps/skipVersion","workbench.view.extension.github-pull-requests.state.hidden","workbench.view.extension.github-pull-request.state.hidden","javascript.1.editedCount","javascript.1.editedDate","workbench.view.remote.state.hidden","~remote.forwardedPortsContainer.hidden","workbench.view.extension.ddb50.state.hidden","workbench.view.extension.cs50-menu.state.hidden","workbench.view.extension.liveshare.state.hidden","remote.tunnels.toRestore.codespaces+andresdanielmtz-code50-103913163-pjq9vg54gh6gx9.-936025092","workbench.welcomePage.hiddenCategories","Comments.hidden","javascript.1.isCandidate","javascript.1.skipVersion","remote.explorerType","file.particpants.additionalEdits","workbench.view.extension.jupyter.state.hidden","workbench.view.extension.references-view.state.hidden","fileBasedRecommendations/promptedFileExtensions","cpp.1.editedCount","cpp.1.editedDate","snippets.usageTimestamps","workbench.view.extension.latex-workshop-activitybar.state.hidden","workbench.view.extension.dockerView.state.hidden","workbench.view.extension.mobileView.state.hidden","extensionTips/promptedExecutableTips","workbench.view.extension.codegpt-sidebar-view.state.hidden","workbench.view.extension.workspaceViewer.state.hidden","csharp.1.lastSessionDate","csharp.1.sessionCount","views.customizations","tabs-list-width-horizontal","workbench.view.extension.jupyter-variables.state.hidden","typescript.1.editedCount","typescript.1.editedDate","workbench.view.extension.cmake__viewContainer.state.hidden","workbench.view.extension.makefile__viewContainer.state.hidden","remote.tunnels.toRestore.codespaces+andresdanielmtz-cuddly-space-winner-7j659ppj7xwh7pr.-843652458","remote.tunnels.toRestore.codespaces+andresdanielmtz-musical-acorn-xg7pwvvgr56cwq4.-1248538014","cpp.1.isCandidate","cpp.1.skipVersion","remote.tunnels.toRestore.codespaces+andresdanielmtz-literate-train-4p5v7ww9x4xfqwgp.1561230935","remote.tunnels.toRestore.codespaces+andresdanielmtz-studious-invention-wqp57ggqr95f5wx5.-1108760942","remote.tunnels.toRestore.codespaces+andresdanielmtz-vigilant-memory-wqp57ggjwvvfg59q.2034008580","workbench.view.extension.figma.state.hidden","workbench.view.extension.vscode-serial-monitor-tools.state.hidden","extensionsAssistant/fileExtensionsSuggestionIgnore","typescript.1.isCandidate","typescript.1.skipVersion","refactorPreview.hidden","workbench.panel.chatSidebar.copilot.hidden","workbench.panel.chatSidebar.hidden","workbench.view.extension.test.state.hidden","workbench.views.service.panel.30e0af9e-cc88-4faa-81a0-fb23d398114a.state.hidden","extensionsAssistant/deprecated","inline-chat-history","workbench.view.extension.sidebar-panel.state.hidden","workbench.view.extension.postman-console-view-container.state.hidden","github-andresdanielmtz","memento/workbench.editor.keybindings","extension.features.state","languageModelAccess.copilot-gpt-3.5-turbo","languageModelStats.copilot-gpt-3.5-turbo","workbench.view.extension.polyglot-notebook-panel.state.hidden","languageModelAccess.copilot-gpt-4","languageModelStats.copilot-gpt-4","languageModelAccess.gpt-3.5-turbo","languageModelStats.gpt-3.5-turbo","workbench.panel.markers.hidden","workbench.explorer.views.state.hidden","workbench.scm.views.state.hidden","workbench.activity.pinnedViewlets2","workbench.view.debug.state.hidden","colorThemeData","memento/gettingStartedService","workbench.panel.pinnedPanels"]
+2024-07-02 18:55:54.028 [info] GlobalState: Updated local ui state
+2024-07-02 18:55:54.297 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-07-02 18:55:54.298 [info] GlobalState: Last sync data state does not exist.
+2024-07-02 18:55:54.596 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-07-02 18:55:54.596 [info] GlobalState: Last sync data state does not exist.
+2024-07-02 18:55:54.617 [info] GlobalState: Updated remote ui state. Added: encryption.migratedToGnomeLibsecret.
+2024-07-02 18:55:54.698 [info] GlobalState: Updated last synchronized ui state
+2024-07-02 18:55:55.706 [info] Extensions: Skipped synchronizing extension because the extension is not found. amazonwebservices.codewhisperer-for-command-line-companion

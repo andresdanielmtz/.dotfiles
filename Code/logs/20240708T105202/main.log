@@ -1,0 +1,16 @@
+2024-07-08 10:52:03.434 [info] update#setState idle
+2024-07-08 10:52:11.943 [info] Extension host with pid 11447 exited with code: 0, signal: unknown.
+2024-07-08 10:52:11.945 [error] [UtilityProcess id: 1, type: extensionHost, pid: 11447]: crashed with code 134 and reason 'crashed'
+2024-07-08 10:52:33.435 [info] update#setState checking for updates
+2024-07-08 10:52:33.498 [info] update#setState idle
+2024-07-08 11:34:03.954 [error] Error: Unable to write file '/home/autummata/.config/Code/User/globalStorage/storage.json' (Unknown (FileSystemError): Error: ENOSPC: no space left on device, write)
+    at t.writeFile (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:65:17158)
+    at async f.t (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:69:9175)
+2024-07-08 11:34:04.786 [error] Error: Unable to write file '/home/autummata/.config/Code/User/globalStorage/storage.json' (Unknown (FileSystemError): Error: ENOSPC: no space left on device, write)
+    at t.writeFile (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:65:17158)
+    at async f.t (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:69:9175)
+2024-07-08 11:40:42.170 [info] Extension host with pid 11561 exited with code: 0, signal: unknown.
+2024-07-08 11:40:44.888 [warning] No ptyHost heartbeat after 6 seconds
+2024-07-08 11:40:49.891 [error] No ptyHost heartbeat after 12 seconds
+2024-07-08 11:41:02.275 [warning] [storage main] detected slow close() operation: Time: 20109ms, DB size: 24576b, Large Keys: workbench.activity.viewletsWorkspaceState:1752, __$__targetStorageMarker:1434, terminal.integrated.environmentVariableCollectionsV2:1117, memento/workbench.parts.editor:555, workbench.view.debug.state:528
+2024-07-08 11:41:02.276 [warning] [storage main] detected slow close() operation: Time: 20111ms, DB size: 1126400b, Large Keys: iconThemeData:956745, workbench.statusbar.hidden:41079, colorThemeData:15183, inline-chat-history:10067, __$__targetStorageMarker:6345

@@ -1,0 +1,45 @@
+2024-07-02 18:57:30.588 [info] Getting Manifest... teabyii.ayu
+2024-07-02 18:57:30.597 [info] Installing extension: teabyii.ayu vscode-userdata:/home/autummata/.vscode/extensions/extensions.json
+2024-07-02 18:57:31.237 [info] Extension signature verification result for teabyii.ayu: UnknownError. Executed: true. Duration: 15ms.
+2024-07-02 18:57:31.406 [info] Extracted extension to file:///home/autummata/.vscode/extensions/teabyii.ayu-1.0.5: teabyii.ayu
+2024-07-02 18:57:31.439 [info] Renamed to /home/autummata/.vscode/extensions/teabyii.ayu-1.0.5
+2024-07-02 18:57:31.563 [info] Extension installed successfully: teabyii.ayu vscode-userdata:/home/autummata/.vscode/extensions/extensions.json
+2024-07-02 18:57:49.942 [info] Getting Manifest... pkief.material-icon-theme
+2024-07-02 18:57:49.959 [info] Installing extension: pkief.material-icon-theme vscode-userdata:/home/autummata/.vscode/extensions/extensions.json
+2024-07-02 18:57:50.607 [info] Extension signature verification result for pkief.material-icon-theme: UnknownError. Executed: true. Duration: 16ms.
+2024-07-02 18:57:51.482 [info] Extracted extension to file:///home/autummata/.vscode/extensions/pkief.material-icon-theme-5.4.2: pkief.material-icon-theme
+2024-07-02 18:57:51.530 [info] Renamed to /home/autummata/.vscode/extensions/pkief.material-icon-theme-5.4.2
+2024-07-02 18:57:51.637 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/autummata/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/autummata/.vscode/extensions/extensions.json.vsctmp'
+    at c.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)
+2024-07-02 18:57:51.668 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/autummata/.vscode/extensions/extensions.json
+2024-07-02 19:07:07.276 [info] Getting Manifest... icrawl.discord-vscode
+2024-07-02 19:07:07.292 [info] Installing extension: icrawl.discord-vscode vscode-userdata:/home/autummata/.vscode/extensions/extensions.json
+2024-07-02 19:07:07.885 [info] Extension signature verification result for icrawl.discord-vscode: UnknownError. Executed: true. Duration: 11ms.
+2024-07-02 19:07:07.904 [info] Extracted extension to file:///home/autummata/.vscode/extensions/icrawl.discord-vscode-5.8.0: icrawl.discord-vscode
+2024-07-02 19:07:07.947 [info] Renamed to /home/autummata/.vscode/extensions/icrawl.discord-vscode-5.8.0
+2024-07-02 19:07:08.049 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/autummata/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/autummata/.vscode/extensions/extensions.json.vsctmp'
+    at c.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)
+2024-07-02 19:07:08.074 [info] Extension installed successfully: icrawl.discord-vscode vscode-userdata:/home/autummata/.vscode/extensions/extensions.json
+2024-07-02 19:12:17.064 [info] Getting Manifest... esbenp.prettier-vscode
+2024-07-02 19:12:17.075 [info] Installing extension: esbenp.prettier-vscode vscode-userdata:/home/autummata/.vscode/extensions/extensions.json
+2024-07-02 19:12:17.906 [info] Extension signature verification result for esbenp.prettier-vscode: UnknownError. Executed: true. Duration: 19ms.
+2024-07-02 19:12:18.084 [info] Extracted extension to file:///home/autummata/.vscode/extensions/esbenp.prettier-vscode-10.4.0: esbenp.prettier-vscode
+2024-07-02 19:12:18.134 [info] Renamed to /home/autummata/.vscode/extensions/esbenp.prettier-vscode-10.4.0
+2024-07-02 19:12:18.231 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/autummata/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/autummata/.vscode/extensions/extensions.json.vsctmp'
+    at c.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)
+2024-07-02 19:12:18.262 [info] Extension installed successfully: esbenp.prettier-vscode vscode-userdata:/home/autummata/.vscode/extensions/extensions.json

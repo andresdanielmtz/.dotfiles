@@ -1,0 +1,113 @@
+{
+    "python.defaultInterpreterPath": "/usr/local/bin/python3",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.cursorBlinking": "expand",
+    "editor:lineHeight": 0,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.guides.indentation": false,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Jetbrains Mono, FiraCode, Menlo, Monaco, 'Courier New', monospaceM",
+    "editor.renderWhitespace": "all",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "git.suggestSmartCommit": false,
+    "matlab.mlintpath": "Applications/MATLAB_R2016a.app/bin/maci64/mlint",
+    "editor.smoothScrolling": true,
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": true,
+        "markdown": true,
+        "scminput": false,
+        "yaml": false,
+        "python": false,
+        "javascript": true,
+        "latex": true,
+        "typescript": true,
+        "cpp": true,
+        "html": true,
+        "racket": true
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnType": true
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "githubPullRequests.pullBranch": "never",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[latex]": {
+        "editor.defaultFormatter": "mathematic.vscode-latex"
+    },
+    "workbench.editorAssociations": {
+        "*.pdf": "latex-workshop-pdf-hook"
+    },
+    "vscode_vibrancy.opacity": 1,
+    "window.titleBarStyle": "custom",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "cmake.configureOnOpen": true,
+    "editor.inlineSuggest.showToolbar": "always",
+    "workbench.startupEditor": "none",
+    "arduino.useArduinoCli": true,
+    "[markdown]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "terminal.integrated.env.osx": {
+        "FIG_NEW_SESSION": "1",
+        "Q_NEW_SESSION": "1"
+    },
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.accessibilitySupport": "off",
+    "editor.fontSize": 13,
+    "[cpp]": {
+        "editor.defaultFormatter": "chiehyu.vscode-astyle"
+    },
+    "chat.editor.wordWrap": "on",
+    "editor.wordWrap": "on",
+    "explorer.confirmDelete": false,
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.sideBar.location": "right",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "go.toolsManagement.autoUpdate": true,
+    "[racket]": {
+        "editor.defaultFormatter": "lishizhen.racket-fmt"
+    },
+    "editor.snippetSuggestions": "top",
+    "githubPullRequests.createOnPublishBranch": "never",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.minimap.showSlider": "always",
+    "editor.minimap.renderCharacters": false,
+    "github.copilot.editor.enableAutoCompletions": true,
+    "workbench.colorTheme": "Ayu Dark",
+}

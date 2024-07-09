@@ -1,0 +1,28 @@
+2024-07-08 10:52:08.140 [info] Extension host with pid 11447 started
+2024-07-08 10:52:08.140 [info] Skipping acquiring lock for /home/autummata/.config/Code/User/workspaceStorage/401e39c3e6b66d6c14f8c403a18ff901.
+2024-07-08 10:52:08.778 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-07-08 10:52:08.981 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-08 10:52:08.992 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2024-07-08 10:52:09.081 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-08 10:52:09.278 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-08 10:52:09.527 [info] Eager extensions activated
+2024-07-08 10:52:09.566 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-08 10:52:09.584 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-08 10:52:09.617 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-07-08 10:52:12.405 [info] Extension host with pid 11561 started
+2024-07-08 10:52:12.405 [info] Skipping acquiring lock for /home/autummata/.config/Code/User/workspaceStorage/401e39c3e6b66d6c14f8c403a18ff901.
+2024-07-08 10:52:12.412 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-07-08 10:52:12.485 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-08 10:52:12.488 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2024-07-08 10:52:12.509 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-08 10:52:12.578 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-08 10:52:12.689 [info] Eager extensions activated
+2024-07-08 10:52:12.707 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-08 10:52:12.710 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-08 10:52:12.730 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-07-08 10:52:12.819 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-07-08 10:53:01.760 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-08 11:02:21.755 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-07-08 11:03:38.626 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+2024-07-08 11:40:42.132 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-08 11:40:42.167 [info] Extension host with pid 11561 exiting with code 0

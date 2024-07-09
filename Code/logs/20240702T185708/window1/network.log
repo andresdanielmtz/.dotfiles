@@ -1,0 +1,7 @@
+2024-07-02 18:57:23.368 [error] browser #2: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-07-02 18:57:28.661 [error] browser #30: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-07-02 18:57:28.662 [error] browser #29: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-07-02 18:57:46.748 [error] browser #39: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-07-02 19:07:03.415 [error] browser #52: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-07-02 19:12:09.964 [error] browser #61: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-07-02 22:29:42.391 [error] browser #97: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Offline

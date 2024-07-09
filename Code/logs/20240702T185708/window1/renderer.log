@@ -1,0 +1,68 @@
+2024-07-02 18:57:08.997 [info] Started local extension host with pid 61121.
+2024-07-02 18:57:11.990 [info] [perf] Render performance baseline is 36ms
+2024-07-02 19:15:30.475 [error] Unable to read file '/home/autummata/dev/octonotes/src/components/tool/childStates/components' (Error: Unable to resolve nonexistent file '/home/autummata/dev/octonotes/src/components/tool/childStates/components'): Error: Unable to read file '/home/autummata/dev/octonotes/src/components/tool/childStates/components' (Error: Unable to resolve nonexistent file '/home/autummata/dev/octonotes/src/components/tool/childStates/components')
+    at o.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19384)
+    at o.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19179)
+    at async d.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2202:35250)
+    at async d.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2202:35007)
+    at async L.Cb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2191:11348)
+    at async L.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2191:9760)
+    at async r.W (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2202:31335)
+    at async a.r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2191:24124)
+    at async T.acquire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:37:3350)
+    at async f.createModelReference (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2191:25733)
+2024-07-02 19:17:07.418 [info] Settings Sync: Updating due to change in sessions
+2024-07-02 19:17:07.420 [info] Settings Sync: Updating due to change in sessions
+2024-07-02 19:19:32.344 [error] <semantic> TypeScript Server Error (5.4.5)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at getCompletionEntryCodeActionsAndSourceDisplay (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160719:9)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160570:46)
+    at Object.getCompletionEntryDetails2 [as getCompletionEntryDetails] (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146566:35)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:186863:43
+    at mapDefined (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:2680:22)
+    at IpcIOSession.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:186861:20)
+    at completionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185184:43)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187569:69
+    at IpcIOSession.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187561:14)
+    at IpcIOSession.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187569:29)
+    at IpcIOSession.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187611:51)
+    at process.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:189220:14)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21): Error: <semantic> TypeScript Server Error (5.4.5)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at getCompletionEntryCodeActionsAndSourceDisplay (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160719:9)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160570:46)
+    at Object.getCompletionEntryDetails2 [as getCompletionEntryDetails] (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146566:35)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:186863:43
+    at mapDefined (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:2680:22)
+    at IpcIOSession.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:186861:20)
+    at completionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185184:43)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187569:69
+    at IpcIOSession.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187561:14)
+    at IpcIOSession.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187569:29)
+    at IpcIOSession.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187611:51)
+    at process.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:189220:14)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200823)
+2024-07-02 19:56:42.394 [error] Error: ENOENT: no such file or directory, copyfile '/home/autummata/dev/octonotes/src/components/tool/child/childStates/aifunc.tsx' -> '/home/autummata/.config/Code/User/History/-2ef424f9/aZVA.tsx': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, copyfile '/home/autummata/dev/octonotes/src/components/tool/child/childStates/aifunc.tsx' -> '/home/autummata/.config/Code/User/History/-2ef424f9/aZVA.tsx'
+    at b.create (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:56:3698)
+    at P (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:56:3816)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:61:37735)
+    at t.eb (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:61:36972)
+2024-07-02 19:58:11.638 [error] Unable to read file '/home/autummata/dev/octonotes/src/components/tool/childStates/PointingHandle' (Error: Unable to resolve nonexistent file '/home/autummata/dev/octonotes/src/components/tool/childStates/PointingHandle'): Error: Unable to read file '/home/autummata/dev/octonotes/src/components/tool/childStates/PointingHandle' (Error: Unable to resolve nonexistent file '/home/autummata/dev/octonotes/src/components/tool/childStates/PointingHandle')
+    at o.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19384)
+    at o.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19179)
+    at async d.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2202:35250)
+    at async d.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2202:35007)
+    at async L.Cb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2191:11348)
+    at async L.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2191:9760)
+    at async r.W (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2202:31335)
+    at async a.r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2191:24124)
+    at async T.acquire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:37:3350)
+    at async f.createModelReference (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2191:25733)
+2024-07-02 22:29:42.392 [warning] Failed to fetch chat participant registry Offline

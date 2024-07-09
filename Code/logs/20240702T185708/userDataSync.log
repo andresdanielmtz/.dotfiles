@@ -1,0 +1,8 @@
+2024-07-02 18:57:09.427 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-07-02 18:57:09.427 [info] Auto Sync is disabled.
+2024-07-02 18:57:10.048 [info] Deleting non existing profile from backup /home/autummata/.config/Code/User/sync/extensions
+2024-07-02 18:57:10.271 [info] Deleting non existing profile from backup /home/autummata/.config/Code/User/sync/globalState
+2024-07-02 18:57:10.303 [info] Deleting non existing profile from backup /home/autummata/.config/Code/User/sync/keybindings
+2024-07-02 18:57:10.304 [info] Deleting non existing profile from backup /home/autummata/.config/Code/User/sync/settings
+2024-07-02 18:57:10.305 [info] Deleting non existing profile from backup /home/autummata/.config/Code/User/sync/snippets
+2024-07-02 18:57:10.307 [info] Deleting non existing profile from backup /home/autummata/.config/Code/User/sync/tasks
